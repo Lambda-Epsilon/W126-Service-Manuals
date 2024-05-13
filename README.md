@@ -1,6 +1,6 @@
 # W126-Service-Manuals
 
-CHECK RELEASES FOR THE PDFs! Github does not allow me to upload such large files on the repo itself.
+**>>CHECK RELEASES FOR THE PDFs!<<** Github does not allow me to upload such large files on the repo itself.
 
 Includes service manuals (engine, electrical, body, etc) for the following models:
 
